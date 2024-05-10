@@ -23,3 +23,4 @@ def min0perations(n):
         divisor += 1
 
     return min_ops
+
